@@ -1,0 +1,98 @@
+Account 1 Details:
+Name : Adhiraj
+Account No: 1
+Adress : Kakarpara,surat
+Mobile Number : 54845214
+
+Current account balance : 710.0
+Saving account balance : 5289.0
+
+Total Profit Returns : 528.9
+Total Debt : 0.0
+
+
+
+Account 2 Details:
+Name : Komal
+Account No: 2
+Adress : CFroadd,ahmedabad
+Mobile Number : 541122365
+
+Current account balance : 547.0
+Saving account balance : 6000.0
+
+Total Profit Returns : 600.0
+Total Debt : 0.0
+
+
+
+Account 3 Details:
+Name : Aayush
+Account No: 3
+Adress : Motera,Ahmedabad
+Mobile Number : 54612384
+
+Current account balance : 5445.0
+Saving account balance : 8812.0
+
+Total Profit Returns : 918.7
+Total Debt : 5750.0
+
+
+
+Account 4 Details:
+Name : Dhiraj
+Account No: 4
+Adress : Sabarmati,ahmedabad
+Mobile Number : 6523415
+
+Current account balance : 840.0
+Saving account balance : 8985.0
+
+Total Profit Returns : 898.5
+Total Debt : 0.0
+
+
+
+Account 5 Details:
+Name : Ashish
+Account No: 5
+Adress : jaipur
+Mobile Number : 52231456
+
+Current account balance : 854.0
+Saving account balance : 6645.0
+
+Total Profit Returns : 664.5
+Total Debt : 0.0
+
+
+
+Account 1 Details:
+Name : Aayush
+Account No: 1
+Adress : Ahmedabad
+Mobile Number : 784569845
+
+Current account balance : 300.0
+Saving account balance : 5200.0
+
+Total Profit Returns : 520.0
+Total Debt : 0.0
+
+
+
+Account 2 Details:
+Name : Bharat
+Account No: 2
+Adress : hydrabad
+Mobile Number : 35465434
+
+Current account balance : 1000.0
+Saving account balance : 6000.0
+
+Total Profit Returns : 600.0
+Total Debt : 0.0
+
+
+
